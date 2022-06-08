@@ -1,5 +1,12 @@
 # Learning Ego 3D Representation as Ray Tracing
-### [website](https://fudan-zvg.github.io/Ego3RT) | [paper](https://arxiv.org/abs/)
+### [Website](https://fudan-zvg.github.io/Ego3RT) | [Paper](https://arxiv.org/abs/)
+> [**Learning Ego 3D Representation as Ray Tracing**](),            
+> Jiachen Lu, Zheyuan Zhou, Xiatian Zhu, Hang Xu, Li Zhang        
+
+![image](src/intro_fig.png)
+
+
+## Demo
 ![demo](src/demo.gif)
 
 ## Abstract
@@ -10,7 +17,7 @@ A self-driving perception model aims to extract 3D semantic representations from
 ```bibtex
 @article{lu2022ego3rt,
   title={Learning Ego 3D Representation as Ray Tracing},
-  author={Lu, Jiachen and zhou, Zheyuan and Zhu, Xiatian and Xu, Hang and Zhang, Li},
+  author={Lu, Jiachen and Zhou, Zheyuan and Zhu, Xiatian and Xu, Hang and Zhang, Li},
   journal={arXiv},
   year={2022}
 }
