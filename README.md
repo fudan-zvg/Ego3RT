@@ -1,1 +1,1 @@
-# Ego3RT
+# Learning Ego 3D Representation as Ray Tracing
