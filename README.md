@@ -23,6 +23,10 @@ A self-driving perception model aims to extract 3D semantic representations from
 | :------------------: | :--: | :--: |
 |Ego3RT, EfficientNet | no | 55.5|
 |Ego3RT, ResNet101_DCN | yes | 46.2|
+
+## License
+
+[MIT](LICENSE)
 ## Citation
 
 ```bibtex
@@ -33,3 +37,8 @@ A self-driving perception model aims to extract 3D semantic representations from
   year={2022}
 }
 ```
+## Acknowledgement
+
+Thanks to previous open-sourced repo: 
+[MMDetection3d](https://github.com/open-mmlab/mmdetection3d)
+[DETR3d](https://github.com/WangYueFt/detr3d)
