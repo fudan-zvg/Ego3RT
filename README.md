@@ -18,6 +18,14 @@ A self-driving perception model aims to extract 3D semantic representations from
 |Ego3RT, ResNet101_DCN | 37.5 | 45.0 |
 |Ego3RT, VoVNet | 47.8 | 53.4|
 
+## Result
+### **3D object detection on nuScenes test set**
+|        Model         | mAP  | NDS  |
+| :------------------: | :--: | :---: |
+|Ego3RT, ResNet101_DCN | 38.9 | 44.3 |
+|Ego3RT, VoVNet | 42.5 | 47.3|
+
+
 ### **BEV segmentation on nuScenes validation set**
 |        Model         | Multitask | mIoU |
 | :------------------: | :--: | :--: |
