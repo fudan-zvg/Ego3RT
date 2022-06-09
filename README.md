@@ -1,6 +1,6 @@
 # Learning Ego 3D Representation as Ray Tracing
-### [Website](https://fudan-zvg.github.io/Ego3RT) | [Paper](https://arxiv.org/abs/)
-> [**Learning Ego 3D Representation as Ray Tracing**](),            
+### [Website](https://fudan-zvg.github.io/Ego3RT) | [Paper](https://arxiv.org/abs/2206.04042)
+> [**Learning Ego 3D Representation as Ray Tracing**](https://arxiv.org/abs/2206.04042),            
 > Jiachen Lu, Zheyuan Zhou, Xiatian Zhu, Hang Xu, Li Zhang        
 
 ![image](src/intro_fig.png)
