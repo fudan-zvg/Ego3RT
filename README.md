@@ -47,5 +47,5 @@ A self-driving perception model aims to extract 3D semantic representations from
 ## Acknowledgement
 
 Thanks to previous open-sourced repo: 
-[MMDetection3d](https://github.com/open-mmlab/mmdetection3d)
-[DETR3d](https://github.com/WangYueFt/detr3d)
+[MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
+[DETR3D](https://github.com/WangYueFt/detr3d)
