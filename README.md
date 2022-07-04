@@ -41,10 +41,10 @@ A self-driving perception model aims to extract 3D semantic representations from
 ## Reference
 
 ```bibtex
-@article{lu2022ego3rt,
+@inproceedings{lu2022ego3rt,
   title={Learning Ego 3D Representation as Ray Tracing},
   author={Lu, Jiachen and Zhou, Zheyuan and Zhu, Xiatian and Xu, Hang and Zhang, Li},
-  journal=eccv,
+  booktitle={European Conference on Computer Vision},
   year={2022}
 }
 ```
