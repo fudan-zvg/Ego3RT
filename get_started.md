@@ -1,7 +1,7 @@
 # Get Started
 ## Our setting
 1. `Pytorch=1.8.1`
-2. `CUDA=10.2`
+2. `CUDA=11.2`
 3. NVIDIA RTX A6000 48G
 ## Prerequisite
 1. mmcv==1.4.0 (https://github.com/open-mmlab/mmcv)
