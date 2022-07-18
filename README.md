@@ -22,13 +22,13 @@ A self-driving perception model aims to extract 3D semantic representations from
 ### **3D object detection on nuScenes validation set**
 |        Model         | mAP  | NDS  |
 | :------------------: | :--: | :---: |
-|Ego3RT, ResNet101_DCN | 37.5 | 45.0 |
+|[Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar80x256_cart160x160.py) | 37.5 | 45.0 |
 |Ego3RT, VoVNet | 47.8 | 53.4|
 
 ### **3D object detection on nuScenes test set**
 |        Model         | mAP  | NDS  |
 | :------------------: | :--: | :---: |
-|Ego3RT, ResNet101_DCN | 38.9 | 44.3 |
+|[Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar80x256_cart160x160.py) | 38.9 | 44.3 |
 |Ego3RT, VoVNet | 42.5 | 47.3|
 
 
