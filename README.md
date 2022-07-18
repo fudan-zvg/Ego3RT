@@ -9,6 +9,7 @@
 
 
 ## News
+- [2022/07/19]: Configs and instructions for training are released! 
 - [2022/07/05]: First version of Ego3RT is released! Code for detection head and training configs will comming soon.
 - [2022/07/04]: Ego3RT is accepted by **ECCV 2022**!
 
@@ -37,10 +38,10 @@ Please refer to the [get_started.md](get_started.md)
 
 
 ### **BEV segmentation on nuScenes validation set**
-|         Model         | Polar size  |Multitask | mIoU |
+|         Model         | Polar size | Multitask | mIoU |
 | :-------------------: | :--------: | :-------: | :--: |
-| Ego3RT, EfficientNet  | 80x256|   no     | 55.5 |
-| Ego3RT, ResNet101_DCN | 80x256|    yes    | 46.2 |
+| Ego3RT, EfficientNet  |   80x256   |    no     | 55.5 |
+| Ego3RT, ResNet101_DCN |   80x256   |    yes    | 46.2 |
 
 ## License
 
