@@ -30,17 +30,17 @@ Please refer to the [get_started.md](get_started.md)
 |                                   Ego3RT, VoVNet                                   |   80x256   | 47.8 | 53.4 |
 
 ### **3D object detection on nuScenes test set**
-|                                       Model                                        | mAP  | NDS  |
-| :--------------------------------------------------------------------------------: | :--: | :--: |
-| [Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar80x256_cart160x160.py) | 38.9 | 44.3 |
-|                                   Ego3RT, VoVNet                                   | 42.5 | 47.3 |
+|                                       Model                                        | Polar size | mAP  | NDS  |
+| :--------------------------------------------------------------------------------: | :--------: | :--: | ---- |
+| [Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar80x256_cart160x160.py) |   80x256   | 38.9 | 44.3 |
+|                                   Ego3RT, VoVNet                                   |   80x256   | 42.5 | 47.3 |
 
 
 ### **BEV segmentation on nuScenes validation set**
-|         Model         | Multitask | mIoU |
-| :-------------------: | :-------: | :--: |
-| Ego3RT, EfficientNet  |    no     | 55.5 |
-| Ego3RT, ResNet101_DCN |    yes    | 46.2 |
+|         Model         | Polar size  |Multitask | mIoU |
+| :-------------------: | :--------: | :-------: | :--: |
+| Ego3RT, EfficientNet  | 80x256|   no     | 55.5 |
+| Ego3RT, ResNet101_DCN | 80x256|    yes    | 46.2 |
 
 ## License
 
