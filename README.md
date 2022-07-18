@@ -18,6 +18,9 @@ A self-driving perception model aims to extract 3D semantic representations from
 ## Methods
 <img src="src/intro_fig.png" width="700">
 
+## Train & Test
+Please refer to the [get_started.md](get_started.md)
+
 ## Result
 ### **3D object detection on nuScenes validation set**
 |        Model         | mAP  | NDS  |
