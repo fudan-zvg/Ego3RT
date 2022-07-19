@@ -59,6 +59,6 @@ Please refer to the [get_started.md](get_started.md)
 ## Acknowledgement
 
 Thanks to previous open-sourced repo: 
-[MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
-[DETR3D](https://github.com/WangYueFt/detr3d)
-[Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR)
+* [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
+* [DETR3D](https://github.com/WangYueFt/detr3d)
+* [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR)
