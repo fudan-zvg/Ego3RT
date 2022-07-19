@@ -169,7 +169,7 @@ train_pipeline = [
     dict(type='ObjectRangeFilter', point_cloud_range=point_cloud_range),
     dict(type='ObjectNameFilter', classes=class_names),
     dict(type='NormalizeMultiviewImage', **img_norm_cfg),
-    dict(type='ScalePadMultiViewImage', virtual_img_size=(300, 200),size_divisor=32),
+    dict(type='ScalePadMultiViewImage', virtual_img_size=(1500, 900),size_divisor=32),
     dict(type='DefaultFormatBundle3D', class_names=class_names),
     dict(type='Collect3D', keys=['gt_bboxes_3d', 'gt_labels_3d', 'img'],
     meta_keys=('filename', 'ori_shape', 'img_shape', 'lidar2img',
@@ -183,7 +183,7 @@ train_pipeline = [
 test_pipeline = [
     dict(type='LoadMultiViewImageFromFiles', to_float32=True),
     dict(type='NormalizeMultiviewImage', **img_norm_cfg),
-    dict(type='ScalePadMultiViewImage', virtual_img_size=(300, 200),size_divisor=32),
+    dict(type='ScalePadMultiViewImage', virtual_img_size=(1500, 900),size_divisor=32),
     dict(
         type='MultiScaleFlipAug3D',
         img_scale=(1333, 800),
@@ -210,7 +210,7 @@ test_pipeline = [
 eval_pipeline = [
     dict(type='LoadMultiViewImageFromFiles', to_float32=True),
     dict(type='NormalizeMultiviewImage', **img_norm_cfg),
-    dict(type='ScalePadMultiViewImage', virtual_img_size=(300, 200),size_divisor=32),
+    dict(type='ScalePadMultiViewImage', virtual_img_size=(1500, 900),size_divisor=32),
     dict(
         type='MultiScaleFlipAug3D',
         img_scale=(1333, 800),
