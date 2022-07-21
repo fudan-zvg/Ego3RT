@@ -5,7 +5,7 @@
 > **ECCV 2022**
 
 ## Demo
-<img src="src/demo.gif" width="700px">
+<img src="src/demo.gif" width=auto>
 
 
 ## News
