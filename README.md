@@ -5,8 +5,8 @@
 > **ECCV 2022**
 
 ## Demo
-<img src="src/demo.gif" width=auto>
-
+<!-- <img src="src/demo.gif" width=auto> -->
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lMwcGUahlJg/0.jpg)](https://www.youtube.com/watch?v=lMwcGUahlJg)
 
 ## News
 - [2022/07/19]: Configs and instructions for training are released! 
