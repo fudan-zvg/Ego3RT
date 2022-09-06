@@ -6,7 +6,7 @@
 
 ## Demo
 <!-- <img src="src/demo.gif" width=auto> -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lMwcGUahlJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lMwcGUahlJg/0.jpg)](https://www.youtube.com/watch?v=lMwcGUahlJg)
 
 ## News
 - [2022/07/19]: Configs and instructions for training are released! 
