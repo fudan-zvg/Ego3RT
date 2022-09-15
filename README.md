@@ -26,11 +26,11 @@ Please refer to the [get_started.md](get_started.md)
 
 ## Result
 ### **3D object detection on nuScenes validation set**
-|                                       Model                                        | Polar size | mAP  | NDS  |
-| :--------------------------------------------------------------------------------: | :--------: | :--: | :--: |
-| [Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar80x256_cart160x160.py) |   80x256   | 37.5 | 45.0 |
-| [Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar72x192_cart128x128.py) |   72x192   | 37.5 | 44.9 |
-|                                   Ego3RT, VoVNet                                   |   80x256   | 47.8 | 53.4 |
+|                                       Model                                        | Polar size | mAP  | NDS  |                                                        checkpoint                                                        |
+| :--------------------------------------------------------------------------------: | :--------: | :--: | :--: | :----------------------------------------------------------------------------------------------------------------------: |
+| [Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar80x256_cart160x160.py) |   80x256   | 37.5 | 45.0 |                                                                                                                          |
+| [Ego3RT, ResNet101_DCN](projects/configs/ego3rt/ego3rt_polar72x192_cart128x128.py) |   72x192   | 37.5 | 44.9 | [ego3rt_polar72x192_cart128x128.pth](https://drive.google.com/file/d/1KFApMbHCDUdesT81wDUunJB09yo01FPW/view?usp=sharing) |
+|                                   Ego3RT, VoVNet                                   |   80x256   | 47.8 | 53.4 |                                                                                                                          |
 
 ### **3D object detection on nuScenes test set**
 |                                       Model                                        | Polar size | mAP  | NDS  |
